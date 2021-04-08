@@ -1,0 +1,15 @@
+{
+  "name": "paapri-iot",
+  "version": "1.0.0",
+  "description": "For IOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kunal Das",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "netsuite-tba-oauth": "^0.8.0"
+  }
+}
